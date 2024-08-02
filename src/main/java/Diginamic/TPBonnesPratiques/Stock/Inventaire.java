@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Stock;
+package Diginamic.TPBonnesPratiques.Stock;
 
 import java.util.ArrayList;
 import java.util.List;

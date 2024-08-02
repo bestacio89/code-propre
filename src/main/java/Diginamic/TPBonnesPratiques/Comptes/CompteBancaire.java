@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Comptes;
+package Diginamic.TPBonnesPratiques.Comptes;
 
 /**
  * Représente un compte bancaire pouvant être soit un compte courant (type "CC") soit un livret A (type "LA").

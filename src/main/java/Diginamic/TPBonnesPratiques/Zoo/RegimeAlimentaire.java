@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Zoo;
+package Diginamic.TPBonnesPratiques.Zoo;
 
 /**
  * Enumération des régimes alimentaires des animaux.

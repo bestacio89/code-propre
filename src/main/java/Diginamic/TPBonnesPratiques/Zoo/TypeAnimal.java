@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Zoo;
+package Diginamic.TPBonnesPratiques.Zoo;
 
 public enum TypeAnimal {
     MAMMIFERE,

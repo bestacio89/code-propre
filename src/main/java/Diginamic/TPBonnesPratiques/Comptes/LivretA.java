@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Comptes;
+package Diginamic.TPBonnesPratiques.Comptes;
 
 /**
  * Représente un livret A, un type spécifique de compte bancaire d'épargne.

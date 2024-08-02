@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Stock;
+package Diginamic.TPBonnesPratiques.Stock;
 
 /**
  * Représente un article avec un nom et un poids.

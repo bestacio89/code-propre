@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Utilities;
+package Diginamic.TPBonnesPratiques.Utilities;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Calculateur;
+package Diginamic.TPBonnesPratiques.Calculateur;
 
 /**
  * Provides basic arithmetic operations.

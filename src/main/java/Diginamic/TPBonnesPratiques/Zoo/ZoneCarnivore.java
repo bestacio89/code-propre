@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Zoo;
+package Diginamic.TPBonnesPratiques.Zoo;
 import java.util.List;
 
 public class ZoneCarnivore {

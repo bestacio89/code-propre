@@ -1,4 +1,4 @@
-package TPBonnesPratiques.Zoo;
+package Diginamic.TPBonnesPratiques.Zoo;
 
 import java.util.ArrayList;
 import java.util.List;
