@@ -1,7 +1,7 @@
-package ex3;
+package TPBonnesPratiques.Zoo;
 import java.util.List;
 
-public class SavaneAfricaine {
+public class ZoneCarnivore {
 
 	private List<String> types;
 	private List<String> noms;
@@ -19,11 +19,7 @@ public class SavaneAfricaine {
 		}
 	}
 	
-	public int compterAnimaux(){
-		return noms.size();
-	}
-	
-	public int calculerKgsNourritureParJour(){
+	public double calculerKgsNourritureParJour(){
 		return noms.size() * 10;
 	}
 }
