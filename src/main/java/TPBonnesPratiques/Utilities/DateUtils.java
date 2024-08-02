@@ -10,6 +10,10 @@ import java.util.Date;
  */
 public class DateUtils {
 
+    private DateUtils() {
+        //Constructeur vide pour cacher constructeur implicite
+    }
+
     /**
      * Formate une date selon le motif spécifié.
      *
